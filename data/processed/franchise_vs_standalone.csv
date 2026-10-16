@@ -1,0 +1,5 @@
+,revenue_musd,revenue_musd,revenue_musd,roi_percent,roi_percent,roi_percent,budget_musd,budget_musd,budget_musd,popularity,popularity,popularity,vote_average,vote_average,vote_average
+,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median
+movie_type,,,,,,,,,,,,,,,
+Franchise,16,1690.7758633125,1484.541738,16,701.743987495173,684.2215433900928,16,218.0,210.0,16,50.3058875,38.4975,16,7.389125,7.263999999999999
+Standalone,2,1765.1391585000001,1765.1391585000001,2,861.7018270000001,861.7018270000001,2,180.0,180.0,2,47.888,47.888,2,7.4350000000000005,7.4350000000000005
