@@ -4,4 +4,3 @@ requests
 matplotlib
 python-dotenv
 jupyter
-c
