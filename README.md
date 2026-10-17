@@ -123,13 +123,13 @@ pip install -r requirements.txt
 
 ### 4. Configure the TMDB API Token
 
-Create a `.env` file in the project root and add your TMDB API bearer token:
+Create a `.env` file in the project root and added my TMDB API bearer token:
 
 ```text
-TMDB_BEARER_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3OTNhMjdlMDdiNWI2MWVkNDY0M2NiNmI1ODI3OWQ1YyIsIm5iZiI6MTc5MjA1ODA4MC42MDUsInN1YiI6IjZhZDBhMmUwNmEwMzY2YjIyMWY4YmFlMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.eossQt_L7oKNS4iqoR2Dq0xJlG8rq2RrVjDTRzlKlhQ
+TMDB_BEARER_TOKEN=
 ```
 
-Replace the placeholder with your actual token.
+
 
 **Security:** Never upload your `.env` file or expose your API token publicly. Ensure `.env` is included in `.gitignore`.
 
